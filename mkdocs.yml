@@ -65,4 +65,15 @@ markdown_extensions:
   - toc:
         permalink: True
         anchorlink: True
+plugins:
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
 
