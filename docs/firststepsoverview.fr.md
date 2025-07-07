@@ -1,4 +1,4 @@
-# First Steps Overview
+# PREMIERS PAS
 
 ![First Steps Icon](img/firststepsicon.png)
 
